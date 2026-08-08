@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to the Bank accounts PRODUCTION API"
+  message: "Welcome to the Bank accounts PRODY API"
   contactDetails:
     name: "Sageeta Joshi -Prod"
     email: "{cipher}165659952c544a592fe5f260f7a479f6aba792d5d16f14a7d3b910aa9025a310"
