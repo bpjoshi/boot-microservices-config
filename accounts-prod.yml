@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to the Bank accounts Prod API"
   contactDetails:
     name: "Sageeta Joshi -Prod"
-    email: "bp@bpjoshi.com"
+    email: "{cipher}165659952c544a592fe5f260f7a479f6aba792d5d16f14a7d3b910aa9025a310"
   onCallSupport:
     - (91)1234512348
     - (91)5432154328
