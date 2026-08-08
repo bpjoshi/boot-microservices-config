@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to the Bank Loans Prod API"
+  message: "Welcome to the Bank Loans PRODUCTION API"
   contactDetails:
     name: "Sageeta Joshi -Prod"
     email: "sangeetaJi@bpjoshi.com"
