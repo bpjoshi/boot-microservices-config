@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to the Bank accounts Prod API"
+  contactDetails:
+    name: "Sageeta Joshi -Prod"
+    email: "bp@bpjoshi.com"
+  onCallSupport:
+    - (91)1234512348
+    - (91)5432154328

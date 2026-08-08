@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to the Bank Cards Dev API"
+  contactDetails:
+    name: "Ike Joshi -Dev"
+    email: "Ike@bpjoshi.com"
+  onCallSupport:
+    - (91)9999-9999
+    - (91)8888-8888

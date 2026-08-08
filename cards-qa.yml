@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to the Bank Cards QA API"
+  contactDetails:
+    name: "Pooja Joshi -QA"
+    email: "pooja_b@bpjoshi.com"
+  onCallSupport:
+    - (91)1234512346
+    - (91)5432154326

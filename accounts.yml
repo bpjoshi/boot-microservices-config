@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to the Bank accounts Dev API"
+  contactDetails:
+    name: "BP Joshi -Dev"
+    email: "bp@bpjoshi.com"
+  onCallSupport:
+    - (91)1234512345
+    - (91)5432154321

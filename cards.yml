@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to the Bank Cards Dev API"
+  contactDetails:
+    name: "Ian Joshi -Dev"
+    email: "Ian@bpjoshi.com"
+  onCallSupport:
+    - (91)9999-9999
+    - (91)8888-8888
